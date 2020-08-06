@@ -18,5 +18,7 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 ## Módulos
 | Módulos | Estilos |
 | ------------- | ------------- |
-| Implementar el registro de usuario | * Letterbox * Constructivist * Spreadsheet |
+| Implementar el registro de usuario | * Letterbox
+* Constructivist
+* Spreadsheet |
 
