@@ -8,15 +8,15 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 * Una característica propia de esta edad es su curiosidad, las ganas de aprender cosas nuevas cada día, pero a su vez la diversión como parte importante.
 
 ### Definiciones
-∗ Datos: Información de registro del usuario en el sistema.
-∗ GUI: Interfaz gráfica de usuario.
-∗ Máximo: Puntaje máximo alcanzado en el juego.
-∗ Skin: Aspecto de avatar del jugador.
-∗ Avatar: Aspecto del jugador dentro del juego.
-∗ Perfil: Datos personales del jugador.
+* Datos: Información de registro del usuario en el sistema.
+* GUI: Interfaz gráfica de usuario.
+* Máximo: Puntaje máximo alcanzado en el juego.
+* Skin: Aspecto de avatar del jugador.
+* Avatar: Aspecto del jugador dentro del juego.
+* Perfil: Datos personales del jugador.
 
 ## Módulos
 | Módulos | Estilos |
 | ------------- | ------------- |
-| Implementar el registro de usuario  | Letterbox, Constructivist, Spreadsheet |
+| Implementar el registro de usuario | * Letterbox * Constructivist * Spreadsheet |
 
