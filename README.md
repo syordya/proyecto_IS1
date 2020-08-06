@@ -16,7 +16,7 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 ∗ Perfil: Datos personales del jugador.
 
 ## Módulos
-| Primer encabezado | Segundo encabezado |
+| Módulos | Estilos |
 | ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
-| Contenido de la celda  | Contenido de la celda  |
+| Implementar el registro de usuario  | Letterbox, Constructivist, Spreadsheet |
+
