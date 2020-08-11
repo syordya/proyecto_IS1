@@ -21,7 +21,7 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 * Avatar: Aspecto del jugador dentro del juego.
 * Perfil: Datos personales del jugador.
 
-| Módulo | Estilos de programación |
+| Módulos | Estilos de programación |
 | ------------- | ------------- |
 | Implementar el registro de usuario | * Letterbox * Constructivist * Spreadsheet |
 | Implementar la validación de usuario | * Bulletin Board * Aspects |
@@ -34,4 +34,4 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 Módulos: Implementar el módulo de Evaluación, Recompensas Especiales.
 Herencia en el proceso de generación de operaciones matemáticas aleatorias.
 
-![alt text](http://url/to/img.png)
+![alt text](http://url/to/LSP.PNG)
