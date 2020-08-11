@@ -76,19 +76,19 @@ Presenta la información al usuario, interpreta sus acciones y las envía a la a
 ![img](images/ddd2.png)
 ![img](images/ddd3.png)
 
-### APPLICATION
+#### APPLICATION
 Encargada de verificar e interactuar con los diferentes usuarios durante el uso de la aplicación.
 ![img](images/ddd4.png)
 
-### DOMAIN
+#### DOMAIN
 Es el núcleo de la aplicación que contiene las reglas del "negocio" y el responsable de mantener los objetos del negocio.
 En el caso de Mathsoft el núcleo es el manejo de data y las operaciones matemáticas que la aplicación realiza.
 
-### INFRASTRUCTURE
+#### INFRASTRUCTURE
 Capa de soporte para el resto de capas, provee la comunicación con las otras capas e implementa las peresistencias de los objetos de negocio y las librerías de soporte para las otras capas.
 En el caso de Mathsoft se hizo uso de interconexión en ventanas de SFML y QT permitiendo el uso de diferentes capas.
 
-### MODULES
+#### MODULES
 * Registro de usuario.
 * Interfaz de la aplicación.
 * Verificación de datos.
