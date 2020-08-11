@@ -76,3 +76,8 @@ Presenta la información al usuario, interpreta sus acciones y las envía a la a
 ![img](images/ddd2.png)
 ![img](images/ddd3.png)
 
+### APPLICATION
+Encargada de verificar e interactuar con los diferentes usuarios durante el uso de la aplicación
+![img](images/ddd4.png)
+
+
