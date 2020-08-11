@@ -32,6 +32,7 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 ## S.O.L.I.D.
 ### Principio de Sustitución de Liskov (LSP)
 Módulos: Implementar el módulo de Evaluación, Recompensas Especiales.
+
 Herencia en el proceso de generación de operaciones matemáticas aleatorias.
 
 ![img](images/LSP.jpg)
@@ -39,12 +40,12 @@ Herencia en el proceso de generación de operaciones matemáticas aleatorias.
 ### Principio de segregación de Interfaces (ISP)
 Módulos: Implementar la validación de Usuario, Implementar el registro de usuario.
 
-COHESION:
+### COHESIÓN
 Cohesión Funcional: Cuando el módulo ejecuta una y sólo una tarea, teniendo un único objetivo a cumplir, se dice que tiene Cohesividad Funcional.
 
 ![img](images/ISP1.jpg)
 
-ACOPLAMIENTO:
+### ACOPLAMIENTO
 Acoplamiento de Control: Cuando un módulo le envía a otro un elemento de control que determina la lógica de ejecución del mismo.
 
 ![img](images/ISP2.jpg)
