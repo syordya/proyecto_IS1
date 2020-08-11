@@ -34,4 +34,22 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 Módulos: Implementar el módulo de Evaluación, Recompensas Especiales.
 Herencia en el proceso de generación de operaciones matemáticas aleatorias.
 
-![img](images/ISP_1.png) 
+![img](images/LSP.png)
+
+### Principio de segregación de Interfaces (ISP)
+Módulos: Implementar la validación de Usuario, Implementar el registro de usuario.
+
+COHESION:
+Cohesión Funcional: Cuando el módulo ejecuta una y sólo una tarea, teniendo un único objetivo a cumplir, se dice que tiene Cohesividad Funcional.
+
+![img](images/ISP_1.png)
+
+ACOPLAMIENTO:
+Acoplamiento de Control: Cuando un módulo le envía a otro un elemento de control que determina la lógica de ejecución del mismo.
+
+![img](images/ISP_2.png)
+
+### Principio de la Inversión de Dependencias (DIP)
+Módulos: Implementar la ventana del perfil de Usuario, Implementar la validación de Usuario, Recompensas Especiales.
+
+Finalidad de reducir el acoplamiento en la Clase Recompensa, esto hará que los se reduzca la dependencia entre los módulos de código de dicha clase.
