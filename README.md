@@ -63,3 +63,14 @@ Acoplamiento de Control: Cuando un módulo le envía a otro un elemento de contr
 Módulos: Implementar la ventana del perfil de Usuario, Implementar la validación de Usuario, Recompensas Especiales.
 
 Finalidad de reducir el acoplamiento en la Clase Recompensa, esto hará que se reduzca la dependencia entre los módulos de código de dicha clase.
+
+## DOMAIN-DIRVEN DESIGN
+### LENGUAJE UBICUO
+Se le puede definir como un lenguaje común entre los desarrolladores y los ususarios.
+DDD ayuda a lograr más cercano al lenguaje natural, para obtener como resultado final un producto que debe ser comprensible para todos los miembros del equipo independientemente de su rol
+
+### CAPAS DE LA ARQUITECTURA
+#### User interface
+Presenta la información al usuario, interpreta sus acciones y las envía a la aplicación
+
+
