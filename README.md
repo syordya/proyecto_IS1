@@ -34,4 +34,4 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 Módulos: Implementar el módulo de Evaluación, Recompensas Especiales.
 Herencia en el proceso de generación de operaciones matemáticas aleatorias.
 
-![alt text](LSP.PNG)
+![alt text](LSP.PNG 500x390)
