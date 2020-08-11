@@ -21,13 +21,22 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 * Avatar: Aspecto del jugador dentro del juego.
 * Perfil: Datos personales del jugador.
 
-| Módulos | Estilos de programación |
+## MÓDULOS
+| Módulo | Estilos de programación |
 | ------------- | ------------- |
 | Implementar el registro de usuario | * Letterbox * Constructivist * Spreadsheet |
 | Implementar la validación de usuario | * Bulletin Board * Aspects |
 | Implementar el módulo de evaluación | * Letterbox * Constructivist * Aspects |
 | Diseño GUI | * Plugins |
 | Implementación de funcionalidad de recuperación de contraseña | * Bulletin Board * Aspects |
+
+Otros:
+
+* Implementar la ventana del perfil de Usuario.
+* Recopilación de tutoriales y fuentes externas.
+* Recompensas Especiales.
+* Definir e implementar los módulos de aprendizaje.
+* Definir los Niveles de dificultad en los módulos.
 
 ## S.O.L.I.D.
 ### Principio de Sustitución de Liskov (LSP)
@@ -38,7 +47,7 @@ Herencia en el proceso de generación de operaciones matemáticas aleatorias.
 ![img](images/LSP.jpg)
 
 ### Principio de segregación de Interfaces (ISP)
-Módulos: Implementar la validación de Usuario, Implementar el registro de usuario.
+Módulos: Implementar la validación de Usuario, Implementar el registro de Usuario.
 
 ### COHESIÓN
 Cohesión Funcional: Cuando el módulo ejecuta una y sólo una tarea, teniendo un único objetivo a cumplir, se dice que tiene Cohesividad Funcional.
@@ -53,4 +62,4 @@ Acoplamiento de Control: Cuando un módulo le envía a otro un elemento de contr
 ### Principio de la Inversión de Dependencias (DIP)
 Módulos: Implementar la ventana del perfil de Usuario, Implementar la validación de Usuario, Recompensas Especiales.
 
-Finalidad de reducir el acoplamiento en la Clase Recompensa, esto hará que los se reduzca la dependencia entre los módulos de código de dicha clase.
+Finalidad de reducir el acoplamiento en la Clase Recompensa, esto hará que se reduzca la dependencia entre los módulos de código de dicha clase.
