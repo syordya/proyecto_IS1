@@ -64,20 +64,20 @@ Módulos: Implementar la ventana del perfil de Usuario, Implementar la validaci�
 
 Finalidad de reducir el acoplamiento en la Clase Recompensa, esto hará que se reduzca la dependencia entre los módulos de código de dicha clase.
 
-## DOMAIN-DIRVEN DESIGN
+## DOMAIN-DRIVEN DESIGN (DDD)
 ### LENGUAJE UBICUO
 Se le puede definir como un lenguaje común entre los desarrolladores y los ususarios.
-DDD ayuda a lograr más cercano al lenguaje natural, para obtener como resultado final un producto que debe ser comprensible para todos los miembros del equipo independientemente de su rol
+DDD ayuda a lograr más cercano al lenguaje natural, para obtener como resultado final un producto que debe ser comprensible para todos los miembros del equipo independientemente de su rol.
 
 ### CAPAS DE LA ARQUITECTURA
-#### User interface
-Presenta la información al usuario, interpreta sus acciones y las envía a la aplicación
+#### USER INTERFACE
+Presenta la información al usuario, interpreta sus acciones y las envía a la aplicación.
 ![img](images/ddd1.png)
 ![img](images/ddd2.png)
 ![img](images/ddd3.png)
 
 ### APPLICATION
-Encargada de verificar e interactuar con los diferentes usuarios durante el uso de la aplicación
+Encargada de verificar e interactuar con los diferentes usuarios durante el uso de la aplicación.
 ![img](images/ddd4.png)
 
 ### DOMAIN
@@ -89,10 +89,8 @@ Capa de soporte para el resto de capas, provee la comunicación con las otras ca
 En el caso de Mathsoft se hizo uso de interconexión en ventanas de SFML y QT permitiendo el uso de diferentes capas.
 
 ### MODULES
-
-En Mathsoft hacemos uso de diferentes módulos:
-* Registro de usuario
-* Interfaz de la aplicación
-* Verificación de datos
-* Realización de operaciones
+* Registro de usuario.
+* Interfaz de la aplicación.
+* Verificación de datos.
+* Realización de operaciones.
 
