@@ -72,5 +72,7 @@ DDD ayuda a lograr más cercano al lenguaje natural, para obtener como resultado
 ### CAPAS DE LA ARQUITECTURA
 #### User interface
 Presenta la información al usuario, interpreta sus acciones y las envía a la aplicación
-
+![img](images/ddd1.png)
+![img](images/ddd2.png)
+![img](images/ddd3.png)
 
