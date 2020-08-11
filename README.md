@@ -49,12 +49,12 @@ Herencia en el proceso de generación de operaciones matemáticas aleatorias.
 ### Principio de segregación de Interfaces (ISP)
 Módulos: Implementar la validación de Usuario, Implementar el registro de Usuario.
 
-### COHESIÓN
+#### COHESIÓN
 Cohesión Funcional: Cuando el módulo ejecuta una y sólo una tarea, teniendo un único objetivo a cumplir, se dice que tiene Cohesividad Funcional.
 
 ![img](images/ISP1.jpg)
 
-### ACOPLAMIENTO
+#### ACOPLAMIENTO
 Acoplamiento de Control: Cuando un módulo le envía a otro un elemento de control que determina la lógica de ejecución del mismo.
 
 ![img](images/ISP2.jpg)
