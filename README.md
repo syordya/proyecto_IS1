@@ -21,8 +21,7 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 * Avatar: Aspecto del jugador dentro del juego.
 * Perfil: Datos personales del jugador.
 
-## Módulos
-| Módulo | Estilos |
+| Módulo | Estilos de programación |
 | ------------- | ------------- |
 | Implementar el registro de usuario | * Letterbox * Constructivist * Spreadsheet |
 | Implementar la validación de usuario | * Bulletin Board * Aspects |
@@ -30,3 +29,9 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 | Diseño GUI | * Plugins |
 | Implementación de funcionalidad de recuperación de contraseña | * Bulletin Board * Aspects |
 
+## S.O.L.I.D.
+### Principio de Sustitución de Liskov (LSP)
+Módulos: Implementar el módulo de Evaluación, Recompensas Especiales.
+Herencia en el proceso de generación de operaciones matemáticas aleatorias.
+
+![alt text](http://url/to/img.png)
