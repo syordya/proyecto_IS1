@@ -160,4 +160,4 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 #### Registro
 ![img](images/gui2.png)
 #### Perfil
-
+![img](images/gui3.png)
