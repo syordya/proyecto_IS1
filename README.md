@@ -161,3 +161,4 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 ![img](images/gui2.png)
 #### Perfil
 ![img](images/gui3.png)
+![img](images/gui4.png)
