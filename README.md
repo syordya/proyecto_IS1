@@ -43,26 +43,36 @@ El propósito principal del desarrollo de este videojuego es la estimulación y 
 ## Estilos de programación
 
 ### Módulo: Registro de usuario
+
 * Letterbox (Incorpora mensajes en el registro de usuario)
 ![img](images/1r.png)
+
 * Constructivist (Prácticas contra posibles errores del usuario)
 ![img](images/2r.png)
+
 * Spreadsheet (Tabula los datos de registro del usuario)
 ![img](images/3r.png)
+
 ### Módulos: Validación de usuario, Función de recuperar contraseña
 * Bulletin Board (Generaliza las operaciones de datos en ingreso y verificación)
 ![img](images/1v.png)
+
 * Aspects (Simplifica y ordena el desarrollo del código para su funcionalidad)
 ![img](images/2v.png)
+
 ### Módulo: Diseño GUI del avatar
 * Plugins (Amplia las funciones de personalización del GUI)
 ![img](images/2p.png)
+
 ![img](images/1p.png)
+
 ### Módulo: Evaluación
 * Letterbox (Incorpora mensajes en la evaluación)
 ![img](images/1e.png)
+
 * Constructivist (Prácticas contra posibles errores del usuario)
 ![img](images/2e.png)
+
 * Aspects (Simplifica y ordena el desarrollo del código para su funcionalidad)
 ![img](images/3e.png)
 
@@ -101,7 +111,9 @@ DDD ayuda a lograr más cercano al lenguaje natural, para obtener como resultado
 #### USER INTERFACE
 Presenta la información al usuario, interpreta sus acciones y las envía a la aplicación.
 ![img](images/ddd1.png)
+
 ![img](images/ddd2.png)
+
 ![img](images/ddd3.png)
 
 #### APPLICATION
@@ -132,6 +144,7 @@ En el caso de Mathsoft se hizo uso de interconexión en ventanas de SFML y QT pe
 #### Evite Comentarios Obvios
 Poca precencia de comnetarios ya que el nombre de las variables y metodos lo describen por si solo
 ![img](images/p2.png)
+
 ![img](images/p1.png)
 
 #### Agrupación de Código
@@ -151,6 +164,7 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 
 #### Orientado a Objetos vs. Procedural
 ![img](images/2v.png)
+
 ![img](images/p7.png)
 
 ## Imagenes del GUI
