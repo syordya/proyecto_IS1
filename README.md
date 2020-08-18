@@ -156,7 +156,7 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 ## Imagenes del GUI
 
 #### Login
-
+![img](images/gui1.png)
 #### Registro
 
 #### Perfil
