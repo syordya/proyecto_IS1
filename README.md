@@ -122,7 +122,7 @@ En el caso de Mathsoft se hizo uso de interconexión en ventanas de SFML y QT pe
 * Verificación de datos.
 * Realización de operaciones.
 
-#### PRACTICAS DE CÓDIGO LEGIBLE
+## PRACTICAS DE CÓDIGO LEGIBLE
 #### Comentar y Documentar
 ![img](images/p1.png)
 
@@ -152,4 +152,9 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 #### Orientado a Objetos vs. Procedural
 ![img](images/2v.png)
 ![img](images/p7.png)
+
+##Imagenes del GUI
+####Login
+####Registro
+####Perfil
 
