@@ -42,6 +42,23 @@ El propósito principal del desarrollo de este videojuego es la estimulación y 
 
 ## Estilos de programación
 
+### Registro de usuario
+* Letterbox
+* Constructivist
+* Spreadsheet
+### Validación de usuario
+* Bulletin Board
+* Aspects
+### Función de recuperar contraseña
+* Bulletin Board
+* Aspects
+### Diseño GUI del avatar
+* Plugins
+### Módulo de evaluación
+* Letterbox
+* Constructivist
+* Aspects
+
 ## S.O.L.I.D.
 ### Principio de Sustitución de Liskov (LSP)
 Módulos: Módulo de evaluación, Recompensas especiales.
