@@ -123,20 +123,30 @@ En el caso de Mathsoft se hizo uso de interconexión en ventanas de SFML y QT pe
 * Realización de operaciones.
 
 #### PRACTICAS DE CÓDIGO LEGIBLE
-Comentar y Documentar
-Sangrado consistente
-Evite Comentarios Obvios
-Agrupación de Código
-Esquema de Nomenclatura Consistente
-Principio DRY
-Evite la Anidación Profunda
-Limite la Longitud de Línea
-Organización de Archivos y Carpetas
-Nombres Temporales Consistentes
-Capitalizar Palabras Especiales de SQL
-Separación de Código y Datos
-Sintaxis Alterna Dentro de las Plantillas
-Orientado a Objetos vs. Procedural
-Lea Código Fuente Abierto
-Refactorización de Código
+#### Comentar y Documentar
+
+#### Sangrado consistente
+
+#### Evite Comentarios Obvios
+
+#### Agrupación de Código
+
+#### Esquema de Nomenclatura Consistente
+
+#### Principio DRY
+
+#### Evite la Anidación Profunda
+
+#### Limite la Longitud de Línea
+
+#### Organización de Archivos y Carpetas
+
+#### Nombres Temporales Consistentes
+
+#### Separación de Código y Datos
+
+#### Sintaxis Alterna Dentro de las Plantillas
+
+#### Orientado a Objetos vs. Procedural
+
 
