@@ -153,11 +153,11 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 ![img](images/2v.png)
 ![img](images/p7.png)
 
-##Imagenes del GUI
+## Imagenes del GUI
 
-####Login
+#### Login
 
-####Registro
+#### Registro
 
-####Perfil
+#### Perfil
 
