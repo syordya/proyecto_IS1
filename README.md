@@ -137,9 +137,8 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 
 #### Esquema de Nomenclatura Consistente
 
-#### Principio DRY
-
 #### Evite la Anidación Profunda
+![img](images/p4.png)
 
 #### Limite la Longitud de Línea
 
