@@ -127,9 +127,12 @@ En el caso de Mathsoft se hizo uso de interconexión en ventanas de SFML y QT pe
 ![img](images/p1.png)
 
 #### Sangrado consistente
+![img](images/p3.png)
 
 #### Evite Comentarios Obvios
-
+Poca precencia de comnetarios ya que el nombre de las variables y metodos lo describen por si solo
+![img](images/p2.png)
+![img](images/p1.png)
 #### Agrupación de Código
 
 #### Esquema de Nomenclatura Consistente
