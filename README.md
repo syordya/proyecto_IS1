@@ -24,7 +24,7 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 ## Módulos del software
 | Nombre | Descripción | Encargados |
 | ------------- | ------------- | ------------- |
-| Registro de usuario | El sistema permite el registro de usuarios que deseen aprender matemática. | Victor Janampa, Yordy Santos |
+| Registro de usuario | El sistema permite el registro de usuarios que deseen aprender con MathSoft. | Victor Janampa, Yordy Santos |
 | Validación de usuario | El sistema valida el nombre de usuario y contraseña para ingresar al sistema. | Jhon Flores, Yordy Santos |
 | Función de recuperar contraseña | El sistema permite generar una nueva contraseña mediante preguntas de validación. | Jhon Flores, Yordy Santos |
 | Vista del perfil de usuario | El sistema permite visualizar el perfil y avatar de usuario. | Victor Janampa, Yordy Santos |
