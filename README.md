@@ -56,10 +56,12 @@ El propósito principal del desarrollo de este videojuego es la estimulación y 
 ![img](images/2v.png)
 ### Módulo: Diseño GUI del avatar
 * Plugins (Amplia las funciones de personalización del GUI)
+![img](images/1p.png)
 ### Módulo: Evaluación
 * Letterbox (Incorpora mensajes en la evaluación)
 * Constructivist (Prácticas contra posibles errores del usuario)
 * Aspects (Simplifica y ordena el desarrollo del código para su funcionalidad)
+![img](images/3e.png)
 
 ## S.O.L.I.D.
 ### Principio de Sustitución de Liskov (LSP)
