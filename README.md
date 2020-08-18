@@ -133,9 +133,12 @@ En el caso de Mathsoft se hizo uso de interconexión en ventanas de SFML y QT pe
 Poca precencia de comnetarios ya que el nombre de las variables y metodos lo describen por si solo
 ![img](images/p2.png)
 ![img](images/p1.png)
+
 #### Agrupación de Código
+![img](images/p1.png)
 
 #### Esquema de Nomenclatura Consistente
+![img](images/p7.png)
 
 #### Evite la Anidación Profunda
 ![img](images/p4.png)
@@ -147,5 +150,6 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 ![img](images/p6.png)
 
 #### Orientado a Objetos vs. Procedural
-
+![img](images/2v.png)
+![img](images/p7.png)
 
