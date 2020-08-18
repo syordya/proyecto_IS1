@@ -158,7 +158,8 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 #### Login
 ![img](images/gui1.png)
 #### Registro
-![img](images/gui2.png)
-#### Perfil
 ![img](images/gui3.png)
+#### Perfil
+![img](images/gui2.png)
+
 ![img](images/gui4.png)
