@@ -1,10 +1,15 @@
 # MATHSOFT
-“MATHSOFT” busca incentivar el aprendizaje y mejorar la habilidad para la matemática a través de una interfaz sencilla y divertida. La interfaz va a permitir escoger al usuario un avatar, el cual va a poder ser personalizado con los diferentes “skins” que se irán ganando mientras se avance en el juego y se consigan logros.
+“MATHSOFT” busca incentivar el aprendizaje y mejorar la habilidad para la matemática a través de una interfaz sencilla y divertida. La interfaz va a permitir escoger al usuario un avatar, el cual va a poder ser personalizado con los diferentes “skins” que se irán ganando mientras se avance en el juego y se consigan logros. El juego estará distribuido en niveles, los cuales se irán alcanzando conforme el usuario vaya superando cada objetivo propuesto, la complejidad de las operaciones aumentará a medida que se alcance un nuevo nivel.
 
-El juego estará distribuido en niveles, los cuales se irán alcanzando conforme el usuario vaya superando cada objetivo propuesto, la complejidad de las operaciones aumentará a medida que se alcance un nuevo nivel.
+### Propósito
+El propósito principal del desarrollo de este videojuego es la estimulación y mejora en el aprendizaje de los niños entre 6 y 12 años, los cuales son atraídos a través de un sistema de recompensas al completar los retos.
+
+### Funcionalidades
+* Como primera opción al ingresar por primera vez al juego, se va a realizar el registro del usuario para poder crear un perfil con sus datos, y de esta manera guardar el avance que vaya logrando, además cada usuario va a poder elegir un avatar el cual, dependiendo de los logros alcanzados, podrá personalizarse.
+* Dependiendo del nivel en el que se encuentre el jugador, se irán proporcionando operaciones matemáticas, y se irá almacenando la cantidad de errores y aciertos que tenga cada jugador.
+* Dependiendo de los logros que alcance cada jugador, este será recompensado con “skin” nuevos, y la complejidad de las operaciones será mayor.
 
 ### Autores
-
 * [Yordy W. Santos Apaza](https://github.com/syordya)
 * [Jhon I. Flores Pacheco](https://github.com/leviroseb)
 * [Victor M. Janampa Canahuire](https://github.com/VictorJanampa)
