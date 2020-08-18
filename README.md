@@ -154,7 +154,10 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 ![img](images/p7.png)
 
 ##Imagenes del GUI
+
 ####Login
+
 ####Registro
+
 ####Perfil
 
