@@ -47,13 +47,13 @@ El propósito principal del desarrollo de este videojuego es la estimulación y 
 * Constructivist (Prácticas contra posibles errores del usuario)
 * Spreadsheet (Tabula los datos de registro del usuario)
 ### Validación de usuario
-* Bulletin Board (Generaliza las operaciones de validación en ingreso y verificación)
+* Bulletin Board (Generaliza las operaciones de datos en ingreso y verificación)
 * Aspects (Simplifica y ordena el desarrollo del código para su funcionalidad)
 ### Función de recuperar contraseña
-* Bulletin Board (Generaliza las operaciones de validación en ingreso y verificación)
+* Bulletin Board (Generaliza las operaciones de datos en ingreso y verificación)
 * Aspects (Simplifica y ordena el desarrollo del código para su funcionalidad)
 ### Diseño GUI del avatar
-* Plugins (Personalización del avatar de usuario)
+* Plugins (Amplia las funciones de personalización del GUI)
 ### Módulo de evaluación
 * Letterbox (Incorpora mensajes en la evaluación)
 * Constructivist (Prácticas contra posibles errores del usuario)
