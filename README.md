@@ -42,22 +42,21 @@ El propósito principal del desarrollo de este videojuego es la estimulación y 
 
 ## Estilos de programación
 
-### Registro de usuario
+### Módulo: Registro de usuario
 * Letterbox (Incorpora mensajes en el registro de usuario)
 ![img](images/1r.png)
 * Constructivist (Prácticas contra posibles errores del usuario)
 ![img](images/2r.png)
 * Spreadsheet (Tabula los datos de registro del usuario)
 ![img](images/3r.png)
-### Validación de usuario
+### Módulos: Validación de usuario, Función de recuperar contraseña
 * Bulletin Board (Generaliza las operaciones de datos en ingreso y verificación)
+![img](images/1v.png)
 * Aspects (Simplifica y ordena el desarrollo del código para su funcionalidad)
-### Función de recuperar contraseña
-* Bulletin Board (Generaliza las operaciones de datos en ingreso y verificación)
-* Aspects (Simplifica y ordena el desarrollo del código para su funcionalidad)
-### Diseño GUI del avatar
+![img](images/2v.png)
+### Módulo: Diseño GUI del avatar
 * Plugins (Amplia las funciones de personalización del GUI)
-### Módulo de evaluación
+### Módulo: Evaluación
 * Letterbox (Incorpora mensajes en la evaluación)
 * Constructivist (Prácticas contra posibles errores del usuario)
 * Aspects (Simplifica y ordena el desarrollo del código para su funcionalidad)
