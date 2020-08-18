@@ -144,12 +144,7 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 ![img](images/p5.png)
 
 #### Organización de Archivos y Carpetas
-
-#### Nombres Temporales Consistentes
-
-#### Separación de Código y Datos
-
-#### Sintaxis Alterna Dentro de las Plantillas
+![img](images/p6.png)
 
 #### Orientado a Objetos vs. Procedural
 
