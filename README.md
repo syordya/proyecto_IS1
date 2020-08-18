@@ -44,17 +44,17 @@ El propósito principal del desarrollo de este videojuego es la estimulación y 
 
 ## S.O.L.I.D.
 ### Principio de Sustitución de Liskov (LSP)
-Módulos: Implementar el módulo de Evaluación, Recompensas Especiales.
+Módulos: Módulo de evaluación, Recompensas especiales.
 
 Herencia en el proceso de generación de operaciones matemáticas aleatorias.
 
 ![img](images/LSP.jpg)
 
 ### Principio de segregación de Interfaces (ISP)
-Módulos: Implementar la validación de Usuario, Implementar el registro de Usuario.
+Módulos: Validación de usuario, Registro de usuario.
 
 #### COHESIÓN
-Cohesión Funcional: Cuando el módulo ejecuta una y sólo una tarea, teniendo un único objetivo a cumplir, se dice que tiene Cohesividad Funcional.
+Cohesión Funcional: Cuando el módulo ejecuta una y sólo una tarea, teniendo un único objetivo a cumplir, se dice que tiene cohesividad funcional.
 
 ![img](images/ISP1.jpg)
 
@@ -64,9 +64,9 @@ Acoplamiento de Control: Cuando un módulo le envía a otro un elemento de contr
 ![img](images/ISP2.jpg)
 
 ### Principio de la Inversión de Dependencias (DIP)
-Módulos: Implementar la ventana del perfil de Usuario, Implementar la validación de Usuario, Recompensas Especiales.
+Módulos: Vista del perfil de usuario, Validación de usuario, Recompensas especiales.
 
-Finalidad de reducir el acoplamiento en la Clase Recompensa, esto hará que se reduzca la dependencia entre los módulos de código de dicha clase.
+Finalidad de reducir el acoplamiento en la clase Recompensa, esto hará que se reduzca la dependencia entre los módulos de código de dicha clase.
 
 ## DOMAIN-DRIVEN DESIGN (DDD)
 ### LENGUAJE UBICUO
@@ -89,7 +89,7 @@ Es el núcleo de la aplicación que contiene las reglas del "negocio" y el respo
 En el caso de Mathsoft el núcleo es el manejo de data y las operaciones matemáticas que la aplicación realiza.
 
 #### INFRASTRUCTURE
-Capa de soporte para el resto de capas, provee la comunicación con las otras capas e implementa las peresistencias de los objetos de negocio y las librerías de soporte para las otras capas.
+Capa de soporte para el resto de capas, provee la comunicación con las otras capas e implementa las persistencias de los objetos de negocio y las librerías de soporte para las otras capas.
 En el caso de Mathsoft se hizo uso de interconexión en ventanas de SFML y QT permitiendo el uso de diferentes capas.
 
 #### MODULES
