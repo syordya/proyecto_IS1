@@ -30,7 +30,7 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 | Vista del perfil de usuario | El sistema permite visualizar el perfil y avatar de usuario. | Victor Janampa, Yordy Santos |
 | Diseño GUI del avatar | El sistema permite obtener accesorios para personalizar el avatar de usuario. | Jhon Flores, Yordy Santos |
 | Módulos de aprendizaje | MathSoft busca incentivar el aprendizaje y mejorar la habilidad para la matemática, en un trabajo futuro para más asignaturas. | Jhon Flores, Yordy Santos |
-| Niveles de dificultad | El sistema genera una variación de la dificultad al percibir el progreso del usuario y asimismo entrega las recompensas de acuerdo a su nivel. | Jhon Flores, Yordy Santos |
+| Niveles de dificultad | El sistema genera una variación de la dificultad al percibir el progreso del usuario y asimismo entrega las recompensas de acuerdo a su nivel. | Victor Janampa, Yordy Santos |
 | Recompensas especiales | El sistema genera una recompensa para personalizar el avatar de usuario por cada logro completado. | Victor Janampa, Yordy Santos |
 | Módulo de evaluación | En este módulo se asigna una puntuación por nivel o logro alcanzado, aumenta a medida que se alcance un nuevo reto y obtiene el puntaje logrado por el usuario. | Victor Janampa, Jhon Flores, Yordy Santos |
 | Módulo de ayuda | En este módulo se brinda una ayuda al usuario en caso de no poder resolver en cierta cantidad de intentos, ofreciendo un pequeño tutorial del tema. | Victor Janampa, Jhon Flores, Yordy Santos |
