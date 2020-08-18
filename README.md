@@ -124,7 +124,7 @@ En el caso de Mathsoft se hizo uso de interconexión en ventanas de SFML y QT pe
 
 #### PRACTICAS DE CÓDIGO LEGIBLE
 #### Comentar y Documentar
-![img](images/p1png)
+![img](images/p1.png)
 
 #### Sangrado consistente
 
