@@ -21,22 +21,21 @@ El juego estará distribuido en niveles, los cuales se irán alcanzando conforme
 * Avatar: Aspecto del jugador dentro del juego.
 * Perfil: Datos personales del jugador.
 
-## MÓDULOS
-| Módulo | Estilos de programación |
-| ------------- | ------------- |
-| Implementar el registro de usuario | * Letterbox * Constructivist * Spreadsheet |
-| Implementar la validación de usuario | * Bulletin Board * Aspects |
-| Implementar el módulo de evaluación | * Letterbox * Constructivist * Aspects |
-| Diseño GUI | * Plugins |
-| Implementación de funcionalidad de recuperación de contraseña | * Bulletin Board * Aspects |
+## Módulos del software
+| Nombre | Descripción | Encargados |
+| ------------- | ------------- | ------------- |
+| Registro de usuario | El sistema permite el registro de usuarios que deseen aprender matemática. | Victor Janampa, Yordy Santos |
+| Validación de usuario | El sistema valida el nombre de usuario y contraseña para ingresar al sistema. | Jhon Flores, Yordy Santos |
+| Función de recuperar contraseña | El sistema permite generar una nueva contraseña mediante preguntas de validación. | Jhon Flores, Yordy Santos |
+| Vista del perfil de usuario | El sistema permite visualizar el perfil y avatar de usuario. | Victor Janampa, Yordy Santos |
+| Diseño GUI del avatar | El sistema permite obtener accesorios para personalizar el avatar de usuario. | Jhon Flores, Yordy Santos |
+| Módulos de aprendizaje | MathSoft busca incentivar el aprendizaje y mejorar la habilidad para la matemática, en un trabajo futuro para más asignaturas. | Jhon Flores, Yordy Santos |
+| Niveles de dificultad | El sistema genera una variación de la dificultad al percibir el progreso del usuario y asimismo entrega las recompensas de acuerdo a su nivel. | Jhon Flores, Yordy Santos |
+| Recompensas especiales | El sistema genera una recompensa para personalizar el avatar de usuario por cada logro completado. | Victor Janampa, Yordy Santos |
+| Módulo de evaluación | En este módulo se asigna una puntuación por nivel o logro alcanzado, aumenta a medida que se alcance un nuevo reto y obtiene el puntaje logrado por el usuario. | Victor Janampa, Jhon Flores, Yordy Santos |
+| Módulo de ayuda | En este módulo se brinda una ayuda al usuario en caso de no poder resolver en cierta cantidad de intentos, ofreciendo un pequeño tutorial del tema. | Victor Janampa, Jhon Flores, Yordy Santos |
 
-Otros:
-
-* Implementar la ventana del perfil de Usuario.
-* Recopilación de tutoriales y fuentes externas.
-* Recompensas Especiales.
-* Definir e implementar los módulos de aprendizaje.
-* Definir los Niveles de dificultad en los módulos.
+## Estilos de programación
 
 ## S.O.L.I.D.
 ### Principio de Sustitución de Liskov (LSP)
