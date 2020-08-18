@@ -141,6 +141,7 @@ Poca precencia de comnetarios ya que el nombre de las variables y metodos lo des
 ![img](images/p4.png)
 
 #### Limite la Longitud de Línea
+![img](images/p5.png)
 
 #### Organización de Archivos y Carpetas
 
