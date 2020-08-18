@@ -44,8 +44,11 @@ El propósito principal del desarrollo de este videojuego es la estimulación y 
 
 ### Registro de usuario
 * Letterbox (Incorpora mensajes en el registro de usuario)
+![img](images/1r.png)
 * Constructivist (Prácticas contra posibles errores del usuario)
+![img](images/2r.png)
 * Spreadsheet (Tabula los datos de registro del usuario)
+![img](images/3r.png)
 ### Validación de usuario
 * Bulletin Board (Generaliza las operaciones de datos en ingreso y verificación)
 * Aspects (Simplifica y ordena el desarrollo del código para su funcionalidad)
